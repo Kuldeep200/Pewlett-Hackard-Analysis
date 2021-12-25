@@ -14,9 +14,10 @@ Results: Provide a bulleted list with four major points from the two analysis de
 ![image](https://user-images.githubusercontent.com/93456209/147376855-9eddb84b-ed58-4d9a-acc5-7b8387e09172.png)
 
 Of the 499996 employees within the company, are eligible for retirement.
-The resuts from the analysis show that 29,914 Senior Engineers, and 28,254 Senior Staff will be eligible to retire. Given that there are 90,398 employees eligible to retire, a large percent are senior level and when they depart a lot of company horse power will be lost.
-The department with the most retirees is Development (25%) followed by Production (22%)
-There are 1,940 employees elibible for the mentorship program
+The resuts from the analysis show that 25916 Senior Engineers, and 24926 Senior Staff will be eligible to retire. Given that there are 50842 employees eligible to retire, a large percent are senior level .
+There are 1540 employees elibible for the mentorship program
+
+
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
